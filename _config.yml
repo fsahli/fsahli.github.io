@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Francisco Sahli Costabal"
 title_separator          : "-"
 name                     : &name "Francisco Sahli Costabal"
-description              : &description "personal description"
+description              : &description "Postdoctoral researcher @ Pontificia Universidad Católica de Chile"
 url                      : https://fsahli.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "fsahli/fsahli.github.io"
@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : @fcosahli
 facebook:
   username               :
   app_id                 :
@@ -78,12 +78,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Francisco Sahli Costabal"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Postdoctoral researcher @ Pontificia Universidad Católica de Chile"
+  location         : "Santiago, Chile"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=9wRFbcEAAAAJ&hl=en"
   email            :
   uri              :
   bitbucket        :
@@ -98,13 +98,13 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-2612-463X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "@fcosahli"
   vine             :
   weibo            :
   xing             :
@@ -221,23 +221,23 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+#   # _portfolio
+#   - scope:
+#       path: ""
+#       type: portfolio
+#     values:
+#       layout: single
+#       author_profile: true
+#       share: true
+#       comment: true
+#   # _talks
+#   - scope:
+#       path: ""
+#       type: talks
+#     values:
+#       layout: talk
+#       author_profile: true
+#       share: true
 
 # Sass/SCSS
 sass:
