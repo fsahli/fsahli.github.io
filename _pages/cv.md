@@ -12,12 +12,11 @@ redirect_from:
 
 
 
-Education {#education .unnumbered .unnumbered}
+Education
 =========
 
 **Pontifical Catholic University of Chile** January 2019 - present
 
-$-$
 
 Postdoctoral fellow at the Institute of Biological and Medical
 Engineering.
@@ -25,20 +24,17 @@ Engineering.
 
 **Stanford University** 2014 - December 2018
 
-$-$
 
 Ph.D in Mechanical Engineering, Living Matter Laboratory.
 
 
 **University of California, San Francisco** March - April 2011
 
-$-$
 
 Visiting Scholar
 
 **Washington State University** January - February 2011
 
-$-$
 
 Visiting Scholar
 
@@ -46,43 +42,38 @@ Visiting Scholar
 
 Master of Engineering Science 2010 - 2011
 
-$-$
 
 Graduated summa cum laude.
 
 Mechanical Engineering 2005 - 2011
 
-$-$
 
 Graduated summa cum laude.
 
-Educational Experience {#educational-experience .unnumbered .unnumbered}
+Educational Experience
 ======================
 
 **Pontificia Universidad Católica de Chile**, Mechanical Engineering.
 2012 - 2014
 
-$-$
 
 Instructor: Teaching "Solid Mechanics" and "Product Design Workshop\".
 
 
 **Universidad de los Andes** March - July 2012
 
-$-$
 
 Instructor: teaching "Statics".
 
-Professional Experience {#professional-experience .unnumbered .unnumbered}
+Professional Experience
 =======================
 
 **Wenco S.A.** 2012 - 2014
 
-$-$
 
 R&D Engineer.
 
-Publications {#sec:section_name .unnumbered .unnumbered}
+Publications
 ============
 
 **F. Sahli**, P. Perdikaris, E. Kuhl, DE. Hurtado. Multi-fidelity
@@ -144,7 +135,7 @@ A. Hamdan, **F. Sahli**, R. Richards, and C. Richards. Characterization
 of a dielectric microdroplet thermal interface material with dispersed
 nanoparticles. *Journal of Nanoparticle Research 14, no. 9 (2012): 1-8.*
 
-Pre-prints, Conference Proceedings & Others {#pre-prints-conference-proceedings-others .unnumbered .unnumbered}
+Pre-prints, Conference Proceedings & Others
 ===========================================
 
 **F. Sahli**, K. Seo, E. Ashley, E. Kuhl. Classifying drugs by their
@@ -183,7 +174,7 @@ Lotz (2011). Influence of endplate morphology on biomechanical behavior
 in double-layer endplates. *Orthopedic Research Society 2012 Annual
 Meeting*.
 
-Awards {#sec:awards .unnumbered .unnumbered}
+Awards
 ======
 
 **FONDECYT - Postdoctoral grant:** (2019). I obtained funding for my
@@ -225,7 +216,7 @@ Engineering, Pontifical Catholic University of Chile, 2012).
 Chile, 2005) Scholarship awarded during the first year for maximum score
 in the mathematics university selection test.
 
-Patents {#patents .unnumbered .unnumbered}
+Patents
 =======
 
 Light and integrated junction system of the walls of a collapsible
@@ -237,7 +228,7 @@ Bottom of a container that optimizes the use of material.\
 United States US20150283745A1, filed March 5, 2015. Inventors: Francisco
 Sahli, Pedro Chinni.
 
-Journal Reviewer {#journal-reviewer .unnumbered .unnumbered}
+Journal Reviewer
 ================
 
 Computer Methods in Biomechanics and Biomedical Engineering.
