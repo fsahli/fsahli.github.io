@@ -1,0 +1,3 @@
+- [ ] fix images in blog post
+- [ ] add profile picture
+- [ ] write about research
