@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Francisco Sahli Costabal"
 title_separator          : "-"
 name                     : &name "Francisco Sahli Costabal"
-description              : &description "Postdoctoral researcher @ Pontificia Universidad Católica de Chile"
+description              : &description "Assistant Professor @ Pontificia Universidad Católica de Chile"
 url                      : https://fsahli.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "fsahli/fsahli.github.io"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Francisco Sahli Costabal"
   avatar           : "FS.jpg"
-  bio              : "Postdoctoral researcher @ Pontificia Universidad Católica de Chile"
+  bio              : "Assistant Professor @ Pontificia Universidad Católica de Chile"
   location         : "Santiago, Chile"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=9wRFbcEAAAAJ&hl=en"
