@@ -10,16 +10,21 @@ redirect_from:
 {% include base_path %}
 ------------------------------------------------------------------------
 
+**Pontifical Catholic University of Chile** 2019 - Present
+
+
+Assistant Professor 
+Department of Mechanical Engineering
+Institute of Biological and Medical Engineering.
 
 
 Education
 =========
 
-**Pontifical Catholic University of Chile** January 2019 - present
+**Pontifical Catholic University of Chile** 2019
 
 
-Postdoctoral fellow at the Institute of Biological and Medical
-Engineering.
+Postdoctoral fellow at the Institute of Biological and Medical Engineering.
 
 
 **Stanford University** 2014 - December 2018
