@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "research"
+title: "Research"
 permalink: /research/
 author_profile: true
 redirect_from:
@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Research
-======
 
 Cardiovascular disease is the leading cause of death in the industrialized world. My research vision is to integrate computational modeling, experiments and clinical data to better understand the heart’s function and structure in order to predict its behavior. With this multidisciplinary approach, we plan to create innovative translational tools that bridge the gap between basic science and clinical practice. Such computational tools have the potential to replace invasive diagnostic exams, improve their accuracy and better inform physicians about treatment efficacy. However, there are several challenges that arise when mechanistic computer models are linked to data from the clinical setting, which is tipically noise and sparse. Additionaly, the high computational cost of sophisticated computer models can pose a challenge to translate these tools into the clinical practice. For these reasons, we use and develop a number of tools to integrate complex models with sparse and noisy data to make meaningful predictions. Currently, we focus on the following areas:
 
