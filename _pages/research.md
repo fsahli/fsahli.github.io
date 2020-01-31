@@ -43,4 +43,4 @@ Selected publications:
 - F. Sahli, JS. Choy, KL. Sack, JM. Guccione, G. Kassab, E. Kuhl. Multiscale characterization of heart failure. Acta Biomaterialia, no. 86 (2019): 66-76
 - M. Peirlinck, F, Sahli, KL. Sack, JS. Choy, GS. Kassab, JM. Guccione, M. De Beule, P. Segers, E. Kuhl. Using machine learning to characterize heart failure across the scales. Biomechanics and Modeling in Mechanobiology. 2019; doi:10.1007/s10237-019-01190-w.
 
-![growth](/images/fig_growth.png)
+![growth](/images/fig_growth.png =800x)
