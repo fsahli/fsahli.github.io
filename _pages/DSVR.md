@@ -4,7 +4,10 @@ title: "Markdown"
 author_profile: true
 redirect_from: 
   - /DSVR.html
+  - /DSVR
 ---
+
+{% include base_path %}
 
 # Dónde se va a romper:
 
