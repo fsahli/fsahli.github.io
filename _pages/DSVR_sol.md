@@ -1,10 +1,10 @@
 ---
-permalink: /_DSVR/
+permalink: /DSVR_sol/
 title: "Dónde se va a romper:"
 author_profile: true
 redirect_from: 
-  - /_DSVR.html
-  - /_DSVR
+  - /DSVR_sol.html
+  - /DSVR_sol
 ---
 
 {% include base_path %}
