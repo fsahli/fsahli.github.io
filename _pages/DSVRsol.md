@@ -1,7 +1,7 @@
 ---
 permalink: /DSVRsol/
 title: "Dónde se va a romper:"
-author_profile: true
+author_profile: false
 redirect_from: 
   - /DSVRsol.html
   - /DSVRsol
