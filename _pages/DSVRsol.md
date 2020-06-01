@@ -26,3 +26,4 @@ redirect_from:
 - 11 de mayo de 2020: [pregunta](https://www.youtube.com/embed/Azf2tbSfF-Q?start=61&end=62&autoplay=1), [respuesta](https://www.youtube.com/embed/Azf2tbSfF-Q?start=61&autoplay=1), [encuesta](https://docs.google.com/forms/d/e/1FAIpQLSdBqH2WcgVFkc4k0r9SMM7PMHZx7K5UXKHFaPTAtjUnQsKySg/viewform?usp=sf_link)
 - 18 de mayo de 2020: pregunta en la encuesta, [respuesta](https://www.youtube.com/embed/WDY7uD4E8p4?start=28), [encuesta](https://docs.google.com/forms/d/e/1FAIpQLSdE1u-14FaQFZfpFmZepBcxrg4cnNQZaNxeuRCk0yyBLe8efw/viewform?usp=sf_link)
 - 20 de mayo de 2020: Video de tensegrity, respuesta de equilibrio, [encuesta](https://docs.google.com/forms/d/e/1FAIpQLSewsnkzJOU484bupTyUlwrSB--XmBeJZF4VuJZuViUHEkbt5A/viewform?usp=sf_link)
+- 1 de junio de 2020: [video](https://www.youtube.com/embed/jRn5waE0qfk), [encuesta](https://docs.google.com/forms/d/e/1FAIpQLSdG-vZB6B2C63pxFLPpNclQP8HhKtoH8UgteMn2JuT4NSrDBA/viewform?usp=sf_link)
