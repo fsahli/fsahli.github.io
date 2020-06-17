@@ -30,3 +30,4 @@ redirect_from:
 - 3 de junio de 2020: [video](https://www.youtube.com/embed/jZKvJY6gDfg), [encuesta](https://docs.google.com/forms/d/e/1FAIpQLSdKLcSeQF5jtP4O8yMehPn6FVRs2UAldUoNAdhCLPuepYc8FQ/viewform?usp=sf_link)
 - 8 de junio de 2020: [pregunta](https://www.youtube.com/embed/-RNAYR3KPIg?start=43&end=53), [respuesta](https://www.youtube.com/embed/-RNAYR3KPIg?start=73), [encuesta](https://docs.google.com/forms/d/e/1FAIpQLSfB1SJtMUeODBY56xsAqbHWdUAuXM01gQqoP4nEB315dhoDyA/viewform?usp=sf_link)
 - 15 de junio de 2020: [video](https://www.youtube.com/embed/dMN_wQ6Zyy0), [encuesta](https://docs.google.com/forms/d/e/1FAIpQLSdS8CpONSJ2X3on2CUxKIlam5d3oqlFU8r3tTc1DjLa1fZlOg/viewform?usp=sf_link)
+- 17 de junio de 2020: [pregunta](https://www.youtube.com/embed/sjBWnj8kKVs?start=20&end=33),[respuesta](https://www.youtube.com/embed/sjBWnj8kKVs?start=20), [encuesta](https://docs.google.com/forms/d/e/1FAIpQLSfePA-MrXHOqazHdzxBPcntLv-jRIPGzf1oTY8PIKyRkEc3aQ/viewform?usp=sf_link)
