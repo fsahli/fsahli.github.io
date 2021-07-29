@@ -12,4 +12,7 @@ I am an assistant professor in the field of computational cardiology at Pontific
 
 One of my hobbies is to build speakers. You can read more about that in this [blog](https://fsahli.wordpress.com/blog/), plus some other unrelated things.
 
+Here is a recent talk I gave in the "Modeling the cardiac function" 2021 conference, about physics-informed neural networks applied to cardiac electrophysiology:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DcnG74RBeMU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ![heart simulation](/images/torsades.png)
