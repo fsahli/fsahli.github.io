@@ -3,7 +3,8 @@ title: "Visualizing the invisible: The effect of asymptomatic transmission on th
 collection: publications
 permalink: /publication/2020-01-01-Visualizing-the-invisible-The-effect-of-asymptomatic-transmission-on-the-outbreak-dynamics-of-COVID-19
 date: 2020-01-01
-venue: 'medRxiv'
-citation: ' Mathias Peirlinck,  Kevin Linka,  Francisco Costabal,  Eran Bendavid,  Jayanta Bhattacharya,  John Ioannidis,  Ellen Kuhl, &quot;Visualizing the invisible: The effect of asymptomatic transmission on the outbreak dynamics of COVID-19.&quot; medRxiv, 2020.'
-authors: 'Mathias Peirlinck, Kevin Linka, Francisco Costabal, Eran Bendavid, Jayanta Bhattacharya, John Ioannidis, Ellen Kuhl'
+venue: 'Computer Methods in Applied Mechanics and Engineering'
+paperurl: 'https://doi.org/10.1016/j.cma.2020.113410'
+citation: ' Mathias Peirlinck,  Kevin Linka,  Francisco Costabal,  Jay Bhattacharya,  Eran Bendavid,  John Ioannidis,  Ellen Kuhl, &quot;Visualizing the invisible: The effect of asymptomatic transmission on the outbreak dynamics of COVID-19.&quot; Computer Methods in Applied Mechanics and Engineering, 2020.'
+authors: 'Mathias Peirlinck, Kevin Linka, Francisco Costabal, Jay Bhattacharya, Eran Bendavid, John Ioannidis, Ellen Kuhl'
 ---
