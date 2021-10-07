@@ -21,7 +21,7 @@ main:
   - title: "CV"
     url: /cv/
     
-    - title: "Open Positions"
+  - title: "Open Positions"
     url: /positions/ 
     
 #   - title: "Guide"
