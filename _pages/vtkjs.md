@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 {% include base_path %}
-<iframe width="840" height="473" src="https://kitware.github.io/vtk-js/examples/SceneExplorer/index.html?fileURL=https://fsahli.github.io/images/vtkjs/asdf.vtkjs" title="vtkjs viewer" frameborder="0"></iframe>
+<iframe width="840" height="473" src="https://kitware.github.io/vtk-js/examples/SceneExplorer/index.html?fileURL=https://fsahli.github.io/images/vtkjs/atria.vtkjs" title="vtkjs viewer" frameborder="0"></iframe>
