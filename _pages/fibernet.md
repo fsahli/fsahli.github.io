@@ -111,16 +111,14 @@ The following video shows how FiberNet "learns" three activations and an underly
 
 If you find this work helpful in your research, please consider citing our work
 ```bibtex
-@article{herrera_physics_informed_2022,
-	title = {Physics-informed neural networks to learn cardiac fiber orientation from multiple electroanatomical maps},
-	url = {http://arxiv.org/abs/2201.12362},
-	urldate = {2022-02-13},
-	journal = {arXiv:2201.12362 [physics, q-bio]},
-	author = {Herrera, Carlos Ruiz and Grandits, Thomas and Plank, Gernot and Perdikaris, Paris and Costabal, Francisco Sahli and Pezzuto, Simone},
-	month = feb,
-	year = {2022},
-	note = {arXiv: 2201.12362},
-	keywords = {Computer Science - Machine Learning, Quantitative Biology - Tissues and Organs, Physics - Medical Physics, Electrical Engineering and Systems Science - Image and Video Processing}
+@article{herrera_physics-informed_2022,
+    title = {Physics-informed neural networks to learn cardiac fiber orientation from multiple electroanatomical maps},
+journal = {Engineering with Computers},
+    author = {Ruiz Herrera, Carlos and Grandits, Thomas and Plank, Gernot and Perdikaris, Paris and Sahli Costabal, Francisco and Pezzuto, Simone},
+    year = {2022},
+    eprinttype  = {arxiv},
+    eprint = {2201.12362},
+doi = {10.1007/s00366-022-01709-3},
 }
 ```
 
