@@ -55,10 +55,10 @@ Carlos Ruiz Herrera\*, Thomas Grandits\*, Gernot Plank, Paris Perdikaris, Franci
 </style>
 
 <div class="author-teaser-container">
-<img class="author-teaser-img" src="https://fsahli.github.io/images/fibernet/people/carlos_herrera.webp"/>
-<a href="https://www.researchgate.net/profile/Thomas-Grandits"><img class="author-teaser-img" src="https://fsahli.github.io/images/fibernet/people/Thomas-Grandits.webp"/> </a>
+<img class="author-teaser-img" src="https://fsahli.github.io/images/fibernet/people/carlos_herrera.jpg"/>
+<a href="https://www.researchgate.net/profile/Thomas-Grandits"><img class="author-teaser-img" src="https://fsahli.github.io/images/fibernet/people/Thomas-Grandits.jpg"/> </a>
 <a href="https://ccl.medunigraz.at/people.html"><img class="author-teaser-img" src="https://ccl.medunigraz.at/images/people/gernot_plank.jpg"/> </a>
-<a href="https://www.amcs.upenn.edu/people/paris-perdikaris"><img class="author-teaser-img" src="https://fsahli.github.io/images/fibernet/people/Paris-Perdikaris-2.webp"/> </a>
+<a href="https://www.amcs.upenn.edu/people/paris-perdikaris"><img class="author-teaser-img" src="https://directory.seas.upenn.edu/wp-content/uploads/2020/03/perdikaris-paris.jpg"/> </a>
 <a href="https://github.com/fsahli"><img class="author-teaser-img" src="https://fsahli.github.io/images/FS.jpg" /> </a>
 <a href="https://github.com/pezzus"><img class="author-teaser-img" src="https://avatars.githubusercontent.com/u/5204404?v=4"/> </a>
 </div>
