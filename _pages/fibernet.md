@@ -57,7 +57,7 @@ Carlos Ruiz Herrera\*, Thomas Grandits\*, Gernot Plank, Paris Perdikaris, Franci
 <div class="author-teaser-container">
 <img class="author-teaser-img" src="https://fsahli.github.io/images/fibernet/people/carlos_herrera.jpg"/>
 <a href="https://www.researchgate.net/profile/Thomas-Grandits"><img class="author-teaser-img" src="https://fsahli.github.io/images/fibernet/people/Thomas-Grandits.jpg"/> </a>
-<a href="https://ccl.medunigraz.at/people.html"><img class="author-teaser-img" src="https://ccl.medunigraz.at/images/people/gernot_plank.jpg"/> </a>
+<a href="https://ccl.medunigraz.at/people.html"><img class="author-teaser-img" src="https://iheart.polimi.it/wp-content/uploads/2019/09/plank-203x200.jpg"/> </a>
 <a href="https://www.amcs.upenn.edu/people/paris-perdikaris"><img class="author-teaser-img" src="https://directory.seas.upenn.edu/wp-content/uploads/2020/03/perdikaris-paris.jpg"/> </a>
 <a href="https://github.com/fsahli"><img class="author-teaser-img" src="https://fsahli.github.io/images/FS.jpg" /> </a>
 <a href="https://github.com/pezzus"><img class="author-teaser-img" src="https://avatars.githubusercontent.com/u/5204404?v=4"/> </a>
