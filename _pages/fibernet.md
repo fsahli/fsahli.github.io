@@ -101,7 +101,7 @@ We train all the networks simultaneously to satisfy the data from the activation
 
 # Video Demo
 
-The following video shows how FiberNet "learns" three activations and an underlying fiber field from sparse surface observations.
+The following video shows how FiberNet learns three activations and an underlying fiber field from sparse surface observations.
 
 <video width="100%" controls>
 <source src="/images/fibernet/anim_fibernet_v4.mp4" type="video/mp4">
@@ -111,14 +111,18 @@ The following video shows how FiberNet "learns" three activations and an underly
 
 If you find this work helpful in your research, please consider citing our work
 ```bibtex
-@article{herrera_physics-informed_2022,
+@article{ruiz_herrera_physics_informed_2022,
     title = {Physics-informed neural networks to learn cardiac fiber orientation from multiple electroanatomical maps},
-journal = {Engineering with Computers},
+    issn = {1435-5663},
+    url = {https://doi.org/10.1007/s00366-022-01709-3},
+    doi = {10.1007/s00366-022-01709-3},
+    language = {en},
+    urldate = {2022-07-22},
+    journal = {Engineering with Computers},
     author = {Ruiz Herrera, Carlos and Grandits, Thomas and Plank, Gernot and Perdikaris, Paris and Sahli Costabal, Francisco and Pezzuto, Simone},
+    month = jul,
     year = {2022},
-    eprinttype  = {arxiv},
-    eprint = {2201.12362},
-doi = {10.1007/s00366-022-01709-3},
+    keywords = {Anisotropic conduction velocity, Cardiac electrophysiology, Cardiac fibers, Deep learning, Eikonal equation, Physics-informed neural networks},
 }
 ```
 
