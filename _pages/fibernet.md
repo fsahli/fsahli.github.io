@@ -64,8 +64,9 @@ Carlos Ruiz Herrera\*, Thomas Grandits\*, Gernot Plank, Paris Perdikaris, Franci
 </div>
 
 <div class="paper-links">
-<a href="https://arxiv.org/abs/2201.12362"><img style="width: 20%" src="/images/fibernet/arxiv-logo.png"/></a>
-<a href="https://github.com/fsahli/FiberNet"><img src="/images/fibernet/github_logo_small.svg"/></a>
+<a href="https://doi.org/10.1007/s00366-022-01709-3">Paper</a> - 
+<a href="https://arxiv.org/abs/2201.12362">arXiv</a> - 
+<a href="https://github.com/fsahli/FiberNet">code</a>
 </div>
 
 <div class="author-footnote">
