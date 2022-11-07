@@ -23,7 +23,7 @@ Short course: November 8, 2022 - Sala de Estudios Raúl Devés, Escuela de Ingen
 
 ### Session 1:
 
-- [Notes](../images/PINN_notes.pdf)
+- Notes [PDF](../images/PINN_notes.pdf) - [HTML](https://fsahli.github.io/PINN-notes/quarto-test.html)
 
 ### Session 3:
 
