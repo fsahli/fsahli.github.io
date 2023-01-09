@@ -1,6 +1,6 @@
 ---
 permalink: /PIML/
-title: "Physics-informed AI for medical applications"
+title: "Short Course: Introduction to physics-informed machine learning"
 author_profile: false
 redirect_from: 
   - /PIML.html
@@ -9,9 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-# [IPMAS 2023](https://eventos.cmm.uchile.cl/ipmas2023/)
+## [IPMAS 2023](https://eventos.cmm.uchile.cl/ipmas2023/)
 
-## Short Course: Introduction to physics-informed machine learning
 
 January 10-12, 2023
 
