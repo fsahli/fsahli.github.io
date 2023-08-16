@@ -11,28 +11,28 @@ redirect_from:
 ------------------------------------------------------------------------
 
 
-# Academic Positions {#academic-positions .unnumbered}
+# Academic Positions 
 
-::: list
+
 
 **Pontifical Catholic University of Chile** - present
 
-::: list
+
 
 
 Assistant Professor\
 Department of Mechanical and Metallurgical Engineering\
 Institute for Biological and Medical Engineering
-:::
-:::
 
-# Education {#education .unnumbered}
 
-::: list
+
+# Education 
+
+
 
 **Pontifical Catholic University of Chile**
 
-::: list
+
 
 
 Postdoctoral fellow at the Institute of Biological and Medical
@@ -40,11 +40,11 @@ Engineering.
 
 Successfully funded by the School of Engineering internal fellowship and
 FONDECYT Postdoctorado for 3 years.
-:::
+
 
 **Stanford University** - December 2018
 
-::: list
+
 
 
 Ph.D in Mechanical Engineering, Living Matter Laboratory.
@@ -55,93 +55,93 @@ Teaching Assistant: "Non-linear Finite Elements", "Continuum Mechanics"
 and "Neuromechanics".
 
 Thesis name: "Multi-scale model of cardiac arrhythmias"
-:::
+
 
 **University of California, San Francisco** March - April 2011
 
-::: list
+
 
 
 Visiting Scholar: Research in finite element analysis of the vertebral
 endplate.
-:::
+
 
 **Washington State University** January - February 2011
 
-::: list
+
 
 
 Visiting Scholar: Characterization of a dielectric micro droplet thermal
 interface material.
-:::
+
 
 **Pontifical Catholic University of Chile**
 
 Master of Engineering Science - 2011
 
-::: list
+
 
 
 Graduated summa cum laude. Ranked top 9%.
 
 Thesis name: "Structural parameters determining the strength of the
 porcine vertebral body affected by tumors".
-:::
+
 
 Mechanical Engineering - 2011
 
-::: list
+
 
 
 Graduated summa cum laude. Ranked top 8%.
 
 Teaching assistant of the courses "Engineering Materials", "Mechanical
 Behavior of Materials" and "Modern Methods of Manufacturing".
-:::
-:::
 
-# Educational Experience {#educational-experience .unnumbered}
 
-::: list
+
+# Educational Experience 
+
+
 
 **Pontificia Universidad Católica de Chile**, Mechanical Engineering. -
 2014
 
-::: list
+
 
 
 Instructor: Teaching "Solid Mechanics" and "Product Design Workshop\".
 
 Other tasks included: Assistance for grant applications, finite element
 analysis consultancy and research in medical images segmentation.
-:::
+
 
 **Universidad de los Andes** March - July 2012
 
-::: list
+
 
 
 Instructor: teaching "Statics".
-:::
-:::
 
-# Professional Experience {#professional-experience .unnumbered}
 
-::: list
+
+# Professional Experience 
+
+
 
 **Wenco S.A.** - 2014
 
-::: list
+
 
 
 R&D Engineer: Developing packaging plastic products for the Chilean
 market.
-:::
-:::
 
-# Publications {#sec:section_name .unnumbered}
 
-::: etaremune
+
+# Publications 
+
+ etaremune
 
 V. Tac, M.K. Rausch, **F. Sahli**, A.B. Tepole. Data-driven anisotropic
 finite viscoelasticity using neural ordinary differential equations.
@@ -269,11 +269,11 @@ no. 21 (2012): E1310-E1317.*
 A. Hamdan, **F. Sahli**, R. Richards, and C. Richards. Characterization
 of a dielectric microdroplet thermal interface material with dispersed
 nanoparticles. *Journal of Nanoparticle Research 14, no. 9 (2012): 1-8.*
-:::
 
-# Pre-prints, Conference Proceedings & Others {#pre-prints-conference-proceedings-others .unnumbered}
 
-::: list
+# Pre-prints, Conference Proceedings & Others 
+
+
 
 S. Levine, T. Battisti, B. Butz, K. D'Souza, **F. Sahli**, M. Peirlinck.
 \"Dassault Systèmes' Living Heart Project.\" In Modelling Congenital
@@ -349,11 +349,11 @@ AJ. Fields, **F. Sahli**, AG. Rodriguez, J. Ramos-Grez, TM. Keaveny, JC.
 Lotz (2011). Influence of endplate morphology on biomechanical behavior
 in double-layer endplates. *Orthopedic Research Society 2012 Annual
 Meeting*.
-:::
 
-# Invited talks {#invited-talks .unnumbered}
 
-::: list
+# Invited talks 
+
+
 
 Workshop on Scientific Machine Learning: Mathematics and Applications,
 Pontificia Universidad Católica de Chile (2022).
@@ -370,11 +370,11 @@ Nacional del Ecuador (2021).
 
 Penn Institute for Computational Science, University of Pennsynvania
 (2019).
-:::
 
-# Funding {#sec:funding .unnumbered}
 
-::: list
+# Funding 
+
+
 
 **Open seed fund** - School of Engineering, Pontificia Universidad
 Católica de Chile (2022). Collaboration with Prof. Manuel Rausch from
@@ -406,11 +406,11 @@ drug-induced arrhythmias with multi-scale modeling and machine learning"
 
 **Millennium Nucleus for Cardiovascular Magnetic Resonance:** (2019 -
 2021). Young researcher.
-:::
 
-# Awards {#sec:awards .unnumbered}
 
-::: list
+# Awards 
+
+
 
 **School of Engineering Postdoctoral Fellowship:** (Pontifical Catholic
 University of Chile, 2019). Funds one year of postdoctoral projects.
@@ -447,11 +447,11 @@ Engineering, Pontifical Catholic University of Chile, 2012).
 **Honor Roll** (School of Engineering, Pontifical Catholic University of
 Chile, 2005) Scholarship awarded during the first year for maximum score
 in the mathematics university selection test.
-:::
 
-# Patents {#patents .unnumbered}
 
-::: list
+# Patents 
+
+
 
 Light and integrated junction system of the walls of a collapsible
 container.\
@@ -461,11 +461,11 @@ Sahli, Pedro Chinni.
 Bottom of a container that optimizes the use of material.\
 United States US20150283745A1, filed March 5, 2015. Inventors: Francisco
 Sahli, Pedro Chinni.
-:::
 
-# Journal Reviewer {#journal-reviewer .unnumbered}
 
-::: list
+# Journal Reviewer 
+
+
 
 Computer Methods in Biomechanics and Biomedical Engineering (Reviewer
 and Editorial Board).
@@ -497,11 +497,11 @@ Bioengineering
 Computer Methods and Programs in Biomedicine
 
 Journal of Biomechanical Engineering
-:::
 
-# Conference Committees {#conference-committees .unnumbered}
 
-::: list
+# Conference Committees 
+
+
 
 SIPAIM (2022), program committee.
 
@@ -509,4 +509,4 @@ IPMAS (2022), organizing committee.
 
 International Conference on Functional Imaging and Modeling of the Heart
 (2021, 2023), program committee.
-:::
+
