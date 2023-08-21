@@ -14,5 +14,9 @@ Check out one our latest projects about physics-informed neural networks: [Fiber
 
 One of my hobbies is to build speakers. You can read more about that in this [blog](https://fsahli.wordpress.com/blog/), plus some other unrelated things.
 
+## News
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7095395379642261504" height="475" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
 
 ![heart simulation](/images/torsades.png)
