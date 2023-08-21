@@ -16,7 +16,10 @@ One of my hobbies is to build speakers. You can read more about that in this [bl
 
 ## News
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7095395379642261504" height="475" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+New pre-print with postdoc Jeremías Garay
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7097957422354284544" height="750" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7095395379642261504" height="750" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
 
 ![heart simulation](/images/torsades.png)
