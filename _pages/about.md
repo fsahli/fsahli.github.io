@@ -17,9 +17,16 @@ One of my hobbies is to build speakers. You can read more about that in this [bl
 ## News
 
 New pre-print with postdoc Jeremías Garay
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7097957422354284544" height="750" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7097957422354284544" height="700" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7095395379642261504" height="750" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7001541417848172545" height="750" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6975070500041412610" height="856" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+[Fibernet](https://fsahli.github.io/research/fibernet)
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6956305675882778624" height="750" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
 
 ![heart simulation](/images/torsades.png)
