@@ -16,6 +16,8 @@ One of my hobbies is to build speakers. You can read more about that in this [bl
 
 ## News
 
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7120105415211663360" height="663" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
 New pre-print with postdoc Jeremías Garay
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7097957422354284544" height="700" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
