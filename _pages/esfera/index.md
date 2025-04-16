@@ -1,5 +1,5 @@
 ---
-permalink: /vtkjs/
+permalink: /esfera/
 title: "corte esfera"
 author_profile: false
 redirect_from: 
