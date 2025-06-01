@@ -32,5 +32,5 @@ Simone Pezzuto, PhD, Università degli Studi di Trento, Italy
 ### Links
 
 - [JAX tutorial](https://colab.research.google.com/drive/1-Dg8UrOaEX_W-_1SAOXKypNCBbJe516a?usp=sharing)
-- [PINNs tutorial]
+- [PINNs tutorial](https://colab.research.google.com/drive/1zwAFM9XPVBr2vJz7j77Mm1Ng6GZXTMSs?usp=sharing)
 - [more tutorials](https://annien094.github.io/PINNs-tutorial-MICCAI-2024)
