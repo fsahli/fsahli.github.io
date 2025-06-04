@@ -1,10 +1,10 @@
 ---
-permalink: /PINN-FIMH/
+permalink: /FIMH-PINN/
 title: "PINNs tutorial @ FIMH 2025"
 author_profile: false
 redirect_from: 
-  - /PINN-FIMH.html
-  - /PINN-FIMH
+  - /FIMH-PINN.html
+  - /FIMH-PINN
 ---
 
 {% include base_path %}
