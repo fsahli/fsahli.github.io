@@ -1,5 +1,5 @@
 ---
-permalink: /nn/
+permalink: /PINN-FIMH/
 title: "PINNs tutorial @ FIMH 2025"
 author_profile: false
 redirect_from: 
